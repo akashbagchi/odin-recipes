@@ -19,3 +19,12 @@
     font-style: italic;
     color: slateblue;
 }
+
+.subheading {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+}
+
+img {
+    margin: 15px;
+}
